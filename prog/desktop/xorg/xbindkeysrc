@@ -16,13 +16,13 @@
 "term-dwim"
   Control + apostrophe
 
-"moji -n -d ' '"
-  Mod4 + k
+# "moji -n -d ' '"
+#   Mod4 + k
 
-"moji -i -n -d ' '"
-  Mod4 + Shift + k
+# "moji -i -n -d ' '"
+#   Mod4 + Shift + k
 
-"spawn-term -r 20 -c 50 launch"
+"spawn-term -r 20 -c 50 -n LaunchDialog launch"
   Mod4 + Return
 
 # NOTE: you can force reload of this config by running `killall -HUP xbindkeys`

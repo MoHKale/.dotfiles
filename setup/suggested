@@ -37,6 +37,10 @@ presets=(
   [user.doc]="General purpose programs for regular interactive use"
   [user.windows]="itunes"
   [user.linux]="lollypop"
+
+  [bspwm]=
+  [bspwm.doc]="Linux machines using the Binary Space Partitioning Window Manager"
+  [bspwm.linux]="xorg bspwm polybar xwallpaper"
 )
 
 preset_keys=$(printf '%s\n' "${!presets[@]}" | grep -v '\.\|^default$')

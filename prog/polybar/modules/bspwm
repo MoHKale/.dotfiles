@@ -1,0 +1,14 @@
+;  -*- mode: conf-windows -*- vim:ft=dosini
+
+[module/bspwm]
+type = internal/bspwm
+label = %title:0:70:...%
+
+enable-click = true
+enable-scroll = true
+
+format = <label-state> <label-mode>
+
+label-empty =
+label-urgent-foreground = ${colors.yellow}
+label-focused-foreground = ${colors.red}
