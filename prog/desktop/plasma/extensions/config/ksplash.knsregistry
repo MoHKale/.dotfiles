@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>Arch Simple Blue</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>dancp</author>
+  <homepage>https://store.kde.org/p/1312961</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>10108</downloads>
+  <installedfile>/home/mohkale/.local/share/plasma/look-and-feel/archsimpleblue</installedfile>
+  <id>1312961</id>
+  <releasedate>2019-07-05</releasedate>
+  <summary>A simple blue Arch Linux logo for Plasma Splashscreen&lt;br />
+&lt;br />
+&lt;br />
+#INSTALLATION&lt;br />
+&lt;br />
+Extract it to ~/.local/share/plasma/look-and-feel/ &lt;br />
+&lt;br />
+&lt;br />
+This is a modified version of ArchLinux Green Splashscreen from MrMaire&lt;br />
+https://store.kde.org/p/1291719/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/2/3/5/320d2f98881ed4c9f123fc1c2bcc31d25c69.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/2/3/5/320d2f98881ed4c9f123fc1c2bcc31d25c69.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjIzNjg1ODEiLCJvIjoiMSIsInMiOiI0NGNhNmI3ZmEwODUwMTdjMTQ2MDYwYTNiNmE1ZjJjZTgyZTc4M2ZiN2ZmY2VhOWQ1MjY2ZmVkZjJmNGE2ZGIxNWQ3ZjIyNmE3YzlmMTExZjM4NDNhNzlhNjNkYzZiNDA0MmZjMDNiZWQ0NmY4NTk5MTQyNTVlM2I2ZTczMTYxOSIsInQiOjE2MjY5MDY2MzAsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0._Jv_4pX7xMvE7iwgFHh7pSrzmo0jzXWMaRGEiXu958Q/archsimpleblue.tar.gz</payload>
+  <tags>arch,linux,gplv3,kde,plasma##majorversion=5,plasma,theme,splashes,splashscreen,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

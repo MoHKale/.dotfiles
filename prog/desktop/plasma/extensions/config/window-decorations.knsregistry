@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Fluent round aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1544469</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1410</downloads>
+  <installedfile>/home/mohkale/.local/share/aurorae/themes/Fluent-round-light/*</installedfile>
+  <installedfile>/home/mohkale/.local/share/aurorae/themes/Fluent-round-dark/*</installedfile>
+  <installedfile>/home/mohkale/.local/share/aurorae/themes/Fluent-round/*</installedfile>
+  <id>1544469</id>
+  <releasedate>2021-06-26</releasedate>
+  <summary>Fluent design theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1499836/" target="_blank" rel="nofollow">https://www.pling.com/p/1499836/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1477945/" target="_blank" rel="nofollow">https://www.pling.com/p/1477945/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Cursors theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1499852/" target="_blank" rel="nofollow">https://www.pling.com/p/1499852/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Wallpaper:&lt;/strong> &lt;a href="https://www.pling.com/p/1499857/" target="_blank" rel="nofollow">https://www.pling.com/p/1499857/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/8/7/ad520cffe2855353212a267ee1562fb2b1cfb831cd4fb2c8dccf1503cffce040491a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/8/7/ad520cffe2855353212a267ee1562fb2b1cfb831cd4fb2c8dccf1503cffce040491a.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjg5NTgzMTAiLCJvIjoiMSIsInMiOiI1NmY1ZmIyZDQ2ZmYyYjY3M2Q1Y2MwM2IwMzI3NTAyNTU0ZTRiNzg5ZTY2MmEwYTY3MzFmNmY3YzYxOGRmMjJkYjRmMTY3ZGZlNDY4M2VjMDBjZWQwYWVhMjNiMThhNjg0NTFiMTJiM2ExNDM5MTNkZGFlODIwNzkzZGM3YTc1OCIsInQiOjE2Mjk2NjA4NjYsInN0ZnAiOm51bGwsInN0aXAiOiI5NC40LjMyLjc2In0.B0KhQyQ8uDAvMqDTBoVpYXm0UV08F4LsWEfKosYPtSU/Fluent-round.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

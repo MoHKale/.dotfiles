@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="425">
+  <name>System Load Viewer</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>kuser</author>
+  <homepage>https://store.kde.org/p/1474921</homepage>
+  <licence></licence>
+  <version>0.8.2</version>
+  <rating>85</rating>
+  <downloads>8107</downloads>
+  <installedfile>/home/mohkale/.local/share/plasma/plasmoids/org.kde.plasma.systemloadviewer</installedfile>
+  <id>1474921</id>
+  <releasedate>2021-04-15</releasedate>
+  <summary>System Load Viewer: A Tiny CPU/RAM/Swap monitor (from plasma &amp;lt;= 5.20)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/f/0/e/df5658628eeb81f54883a718922754bd3c6d63b4d456d417228fb4cd9fb4b1f2130f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/f/0/e/df5658628eeb81f54883a718922754bd3c6d63b4d456d417228fb4cd9fb4b1f2130f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTg1Mjg4NzAiLCJvIjoiMSIsInMiOiI1ZmNjNGVlMmM3NThhZDlmYTRlZDkwNDQ3MGNlYzMxYjA4NWFjODYyZjk0OWZjN2E0NjFkZDllNGU2NjM3Mzg2MmI1NmQwY2I0M2ViMTIzYTJiYjA5ZTNkYWVkY2JhZjM3MWJhNzVkMjBmNGE0ZGI0YjRkMWExYjA0MzM5M2IzNiIsInQiOjE2MjcxMzc0MjYsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.hTCNDFgVnTnlbWqlE3Qqc1aNJJe6J789Ceem81WRWLY/org.kde.plasma.systemloadviewer.plasmoid</payload>
+  <tags>linux,unix,extension,kde,plasma,plasma##majorversion=5,widget,gplv2-later,efi,cpu,ram,memory,swap,monitoring</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

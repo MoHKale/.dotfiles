@@ -1,0 +1,16 @@
+#+TITLE: Plasma Extension List
+
+This directory contains all the plasma extensions I use to define the look and feel
+of my desktop environment (*DE*). Plasma itself is a great DE but some parts of it are
+still archaic including the plugin installation system. Plasma plugins are hosted at
+[[https://store.kde.org/][store.kde.org]] and installed through the Discover store. This store lacks a command
+line interface that can perform headless installations making automating extension
+installation a total nightmare. To mitigate this I've zipped up all the extensions I
+want installed and placed them into this directory. Each of these is extracted into
+the matching directory in ~$XDG_DATE_HOME~. For example ~icons/Tela.20210813.zip~ is
+extracted into ~$XDG_DATA_HOME/icons/~.
+
+The configs directory doesn't contain any extensions, instead it lists meta-data
+about installed extensions. This is used by discover to know when and how to update
+something. Because these files change very often their used only as templates here,
+copied into the corresponding configuration directory instead of being symlinked.

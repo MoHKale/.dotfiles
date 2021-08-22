@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294174</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>63884</downloads>
+  <installedfile>/home/mohkale/.local/share/plasma/desktoptheme/Sweet</installedfile>
+  <id>1294174</id>
+  <releasedate>2021-03-12</releasedate>
+  <summary>A dark and modern theme for Plasma  based on the awesome &lt;a href="https://store.kde.org/p/998869/" target="_blank" rel="nofollow">Helium&lt;/a> theme.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet Kvantum theme&lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/e/5/5/c0411cd98755fa2d9ed428216e8fc6285040.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/e/5/5/c0411cd98755fa2d9ed428216e8fc6285040.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTU1ODIzNzUiLCJvIjoiMSIsInMiOiI5OGExYjVmNWE2ZDZiZmYyYmQ5ODFkODgxZjQ2Yzc0ZTYzZmVmODI5NzYyOWU0MTM5OGQ2ZTIxYzMzMjA0N2U1NzBhNDUwODVjYzEyZThlNWNmZGY1NzQ2NzVkNjBlNTcxZjNiM2I5OWJiYmQwMzk5YzliNGQ2YmJjNjhhYWY5ZiIsInQiOjE2MjY5MDY2NzEsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.IZCuGebpcY_x6jB1Ss7GnsP-O3WuQ7Yp_u0m5FuzDSE/Sweet.tar.xz</payload>
+  <tags>unix,theme,plasma,linux,kde,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
