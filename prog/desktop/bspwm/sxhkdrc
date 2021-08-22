@@ -5,17 +5,16 @@ super + Escape
 	pkill -USR1 -x sxhkd
 
 # Focus the next/previous desktop in the current monitor
-super + ctrl + {Left,Right}
-	bspc desktop --focus {prev,next}.local
+super + {n,p}
+	bspc desktop --focus {next,prev}.local
 
-# Focus the next/previous desktop in the current monitor
-super + ctrl + {Down,Up}
-	bspc monitor -focus {prev,next}
+# Focus the next/previous monitor
+super + shift + {n,p}
+	bspc monitor -focus {next,prev}
 
 # Pick a desktop by number
-super + {1,2,3,4,5,6,7,8,9,0}
-	bspc desktop -f {I,II,III,IV,V,VI,VII,VIII,IX,X}
-
+super + [1-9,0]
+	bspc desktop -f [1-9,0]
 
 # Control monitor brightness
 {XF86MonBrightnessUp,XF86MonBrightnessDown}
@@ -60,7 +59,7 @@ super + g
 #
 
 # set the window state
-super + {t,shift + t,s,f}
+super + {t,shift + t,f,s}
 	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
 
 # set the node flags
@@ -76,7 +75,7 @@ super + {_,shift + }{h,j,k,l}
 	bspc node -{f,s} {west,south,north,east}
 
 # focus the node for the given path jump
-super + {p,b,comma,period}
+super + {u,b,comma,period}
 	bspc node -f @{parent,brother,first,second}
 
 # focus the next/previous window in the current desktop

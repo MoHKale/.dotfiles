@@ -18,7 +18,7 @@ border-bottom-size = 4
 border-top-color = ${colors.background}
 border-bottom-color = ${colors.background}
 
-modules-left   = window-list space xwindow
+modules-left   = powermenu window-list space xwindow
 modules-center =
 modules-right  = update-count space xbacklight alsa cpu wlan datetime
 

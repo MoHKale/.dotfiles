@@ -6,11 +6,13 @@ type = custom/menu
 expand-right = true
 format-spacing = 1
 
-label-open = " "
-label-close =  cancel
-; label-close-foreground = ${colors.secondary}
-label-separator = |
-; label-separator-foreground = ${colors.foreground-alt}
+label-open = "  "
+label-open-foreground = ${colors.background}
+label-open-background = ${colors.red}
+label-close = ""
+label-close-foreground = ${colors.red}
+label-separator = "/"
+label-separator-foreground = ${colors.blue}
 
 menu-0-0 = reboot
 menu-0-0-exec = menu-open-1

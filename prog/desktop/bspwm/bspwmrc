@@ -2,10 +2,11 @@
 
 pgrep -x sxhkd >/dev/null || sxhkd & # Enables window manager specific bindings.
 pgrep -x dunst >/dev/null || dunst & # Allows you to recieve notify-send notifications.
+pgrep -x nm-applet >/dev/null || nm-applet &
 pgrep -x polybar >/dev/null || polybar default &
 pgrep -x xwallpaper >/dev/null || pick-wallpaper
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d 1 2 3 4 5 6 7 8 9 10
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -20,3 +21,4 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 bspc rule -a '*':LaunchDialog state=floating center=true sticky=true
+bspc rule -a Steam desktop='^3'

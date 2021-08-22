@@ -1,0 +1,14 @@
+;  -*- mode: conf-windows -*- vim:ft=dosini
+
+[module/bspwm-desktop]
+type = internal/bspwm
+label = %title:0:70:...%
+
+enable-click = false
+enable-scroll = false
+
+format = <label-state> <label-mode>
+label-empty =
+label-focused = "%name%:"
+label-urgent =
+label-occupied =
